@@ -1,4 +1,4 @@
-<h1 align="center">Face Verification</h1>
+<h1 align="center">Automaten</h1>
 
 <p align="center">Implementierung von Automaten der Informatik als abstrakte Datenstrukturen in Java.</p>
 
